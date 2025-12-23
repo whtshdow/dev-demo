@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.clerk.suppliers-den.sa1.dev	TRUE	/	FALSE	1999999999	__cf_bm	J9Kg40dilDYCmMm6IkunmnHrN72tqOeJx8OlF7ZRKmM-1766475821-1.0.1.1-6GgEB2VOtevepuY.B42tB5HkMbX1GNAsDAj3y2BjFaluIBhBDlgebHovRoNOEo6dlFik3jlgjSSZW.iH02P8i_MxHHH7JAq1Edkj1SumXTY
+.clerk.suppliers-den.sa1.dev	TRUE	/	FALSE	1999999999	_cfuvid	Yq3frIasEdhzz58FBSIILh4S7XyNS.S_L60yz0bdv_U-1766475821386-0.0.1.1-604800000
+clerk.suppliers-den.sa1.dev	TRUE	/	FALSE	1999999999	SameSite	None
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	t8mCixFckNu.71WZVxsqOuhT0or3KSjzvjDEBSbPhVY-1766475827-1.0.1.1-k0d26P5duw4VZEs5nvzCQlhwGSyfUf85Nuh.3nw11E4HbgrIdCkbCWBikrSTc01L9_fBY9sG8V3p1q2vj2RzBCLJoJQeKMMXBGwx0PgPIdo
+
